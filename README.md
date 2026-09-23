@@ -4,11 +4,11 @@
 
 </div>
 
-<div align="center">
-
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamakyo&hide_border=true&background=FBF8F1&stroke=49494B&ring=FADB6E&fire=FADB6E&currStreakNum=272626&sideNums=272626&currStreakLabel=49494B&sideLabels=49494B&dates=49494B" alt="GitHub streak" />
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-hamakyo-cream.svg" alt="activity" width="100%" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-hamakyo-cream.svg" alt="activity" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamakyo&hide_border=true&background=FBF8F1&stroke=49494B&ring=FADB6E&fire=FADB6E&currStreakNum=272626&sideNums=272626&currStreakLabel=49494B&sideLabels=49494B&dates=49494B" alt="GitHub streak" />
 
 </div>
 
