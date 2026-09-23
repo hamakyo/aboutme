@@ -1,0 +1,25 @@
+{
+  "type": "normal",
+  "fileName": "profile-hamakyo-cream.svg",
+  "backgroundColor": "#FBF8F1",
+  "foregroundColor": "#272626",
+  "strongColor": "#FADB6E",
+  "weakColor": "#49494B",
+  "radarColor": "#FADB6E",
+  "growingAnimation": true,
+  "contribColors": [
+    "#FBF8F1",
+    "#FBD8CB",
+    "#FADB6E",
+    "#49494B",
+    "#272626"
+  ],
+  "l10n": {
+    "commit": "Commit",
+    "repo": "Repo",
+    "review": "Review",
+    "pullreq": "PullReq",
+    "issue": "Issue",
+    "contrib": "contributions"
+  }
+}
