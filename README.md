@@ -30,29 +30,21 @@ I tend to build things that reduce repetitive work, preserve useful context, or 
 
 ## little shelf of projects
 
-### [VocabOps](https://github.com/hamakyo/vocabops)
+### [jev-starter](https://github.com/hamakyo/jev-starter)
 
-Corpus-driven English vocabulary learning for software engineers, with spaced repetition and habit tracking.
+Typed, policy-driven decision workflows on top of TypeSafe AI Jev: confidence routing, fallbacks, evaluation, and RAG patterns for TypeScript apps.
 
-### [OKF Skills](https://github.com/hamakyo/okf-skills)
+### [okf-skills](https://github.com/hamakyo/okf-skills)
 
-Reusable project-knowledge templates and agent Skills for Codex, Claude Code, and agent-assisted development.
+Reusable OKF templates and agent Skills for Codex and Claude Code.
 
-### [MineDock](https://github.com/hamakyo/minedock)
+### [jev-mahjong-bench](https://github.com/hamakyo/jev-mahjong-bench)
 
-A Windows-first, local-first library for managing Minecraft Java Edition worlds without treating Docker as a requirement.
+Reproducible riichi mahjong benchmark for Jev, GPT, Mortal, and hybrid agents using MJAI and RiichiEnv.
 
-### [LPBench](https://github.com/hamakyo/lpbench)
+### [tilelog-lens](https://github.com/hamakyo/tilelog-lens)
 
-A continuous benchmark for comparing LLM-generated landing pages and web interfaces under repeatable conditions.
-
-### [TileLog Lens](https://github.com/hamakyo/tilelog-lens)
-
-A personal Mahjong Soul stats tracker built around post-game screenshots, trends, comparisons, and data-quality checks.
-
-### [Repolica](https://github.com/hamakyo/repolica)
-
-Self-hosted Git repository replication and disaster recovery, starting with GitHub → GitLab Self-Managed.
+Mahjong Soul screenshot statistics tracker with local OCR and Cloudflare D1 exports.
 
 ---
 
