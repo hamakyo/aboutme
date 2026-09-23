@@ -1,3 +1,25 @@
+<div align="center">
+
+<img src="./assets/hero.png" alt="hamakyo — about me" width="100%" />
+
+</div>
+
+<div align="center">
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamakyo&hide_border=true&background=FBF8F1&stroke=49494B&ring=FADB6E&fire=FADB6E&currStreakNum=272626&sideNums=272626&currStreakLabel=49494B&sideLabels=49494B&dates=49494B" alt="GitHub streak" />
+
+<br />
+
+</div>
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-hamakyo-cream.svg" alt="activity" width="100%" />
+
+</div>
+
 ## what i'm into
 
 I like turning ideas into small working systems.
@@ -9,64 +31,33 @@ I tend to build things that reduce repetitive work, preserve useful context, or 
 ## little shelf of projects
 
 ### [VocabOps](https://github.com/hamakyo/vocabops)
+
 Corpus-driven English vocabulary learning for software engineers, with spaced repetition and habit tracking.
 
 ### [OKF Skills](https://github.com/hamakyo/okf-skills)
+
 Reusable project-knowledge templates and agent Skills for Codex, Claude Code, and agent-assisted development.
 
 ### [MineDock](https://github.com/hamakyo/minedock)
+
 A Windows-first, local-first library for managing Minecraft Java Edition worlds without treating Docker as a requirement.
 
 ### [LPBench](https://github.com/hamakyo/lpbench)
+
 A continuous benchmark for comparing LLM-generated landing pages and web interfaces under repeatable conditions.
 
 ### [TileLog Lens](https://github.com/hamakyo/tilelog-lens)
+
 A personal Mahjong Soul stats tracker built around post-game screenshots, trends, comparisons, and data-quality checks.
 
 ### [Repolica](https://github.com/hamakyo/repolica)
+
 Self-hosted Git repository replication and disaster recovery, starting with GitHub → GitLab Self-Managed.
-
-## tools i reach for
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-## contribution observatory
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-hamakyo-cream.svg" alt="Hamakyo Cream 3D contribution observatory" width="100%" />
-
-<sub>Generated daily from GitHub activity in the Hamakyo Cream palette.</sub>
-
-</div>
-
-<div align="center">
-
-<img src="./assets/hero.png" alt="hamakyo — about me" width="100%" />
-
-</div>
-
-## recent rhythm
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamakyo&hide_border=true&background=FBF8F1&stroke=49494B&ring=FADB6E&fire=FADB6E&currStreakNum=272626&sideNums=272626&currStreakLabel=49494B&sideLabels=49494B&dates=49494B" alt="GitHub streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamakyo&bg_color=FBF8F1&color=49494B&line=FADB6E&point=272626&area=true&area_color=FBD8CB&hide_border=true" alt="GitHub activity graph" width="100%" />
-
-</div>
 
 ---
 
 <div align="center">
 
-<sub>still building. still learning. still becoming.</sub>
+<sub>still building. still learning.</sub>
 
 </div>
