@@ -3,7 +3,7 @@
   "fileName": "profile-hamakyo-cream.svg",
   "backgroundColor": "#FBF8F1",
   "foregroundColor": "#272626",
-  "strongColor": "#FADB6E",
+  "strongColor": "#272626",
   "weakColor": "#49494B",
   "radarColor": "#FADB6E",
   "growingAnimation": true,
@@ -20,6 +20,6 @@
     "review": "Review",
     "pullreq": "PullReq",
     "issue": "Issue",
-    "contrib": "contributions"
+    "contrib": "Contributions"
   }
 }
