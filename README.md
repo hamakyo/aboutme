@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="hamakyo — about me" width="100%" />
+<img src="./assets/hero.png" alt="hamakyo — about me" width="100%" />
 
 
 </div>
