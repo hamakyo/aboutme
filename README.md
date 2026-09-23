@@ -2,10 +2,6 @@
 
 <img src="./assets/hero.svg" alt="hamakyo — about me" width="100%" />
 
-<br />
-
-[![Visitors](https://komarev.com/ghpvc/?username=hamakyo&color=FADB6E&style=flat-square&label=visitors)](https://github.com/hamakyo)
-[![Followers](https://img.shields.io/github/followers/hamakyo?style=flat-square&label=followers&color=FBD8CB&labelColor=FBF8F1)](https://github.com/hamakyo?tab=followers)
 
 </div>
 
@@ -39,12 +35,12 @@ Self-hosted Git repository replication and disaster recovery, starting with GitH
 
 ## tools i reach for
 
-![Python](https://img.shields.io/badge/Python-FBF8F1?style=flat-square&logo=python&logoColor=272626)
-![TypeScript](https://img.shields.io/badge/TypeScript-FBF8F1?style=flat-square&logo=typescript&logoColor=272626)
-![Rust](https://img.shields.io/badge/Rust-FBF8F1?style=flat-square&logo=rust&logoColor=272626)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-FADB6E?style=flat-square&logo=cloudflare&logoColor=272626)
-![Azure](https://img.shields.io/badge/Azure-FBD8CB?style=flat-square&logo=microsoftazure&logoColor=272626)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FBF8F1?style=flat-square&logo=githubactions&logoColor=272626)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ## contribution observatory
 
