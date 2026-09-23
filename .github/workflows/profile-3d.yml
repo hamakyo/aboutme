@@ -1,0 +1,54 @@
+name: Update Hamakyo Cream contribution observatory
+
+on:
+  schedule:
+    # 03:17 JST
+    - cron: "17 18 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-3d.yml"
+      - "profile-3d-settings.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hamakyo-cream-contribution-observatory
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+
+      - name: Generate 3D contribution observatory
+        uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: profile-3d-settings.json
+
+      - name: Apply Hamakyo typography
+        run: |
+          file="profile-3d-contrib/profile-hamakyo-cream.svg"
+          test -f "$file"
+          sed -i 's/"Ubuntu", "Helvetica", "Arial", sans-serif/"Helvetica Neue", Helvetica, Arial, sans-serif/g' "$file"
+
+      - name: Commit updated observatory
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/profile-hamakyo-cream.svg
+          if git diff --cached --quiet; then
+            echo "Contribution observatory is already up to date."
+            exit 0
+          fi
+          git commit -m "chore: update Hamakyo Cream contribution observatory"
+          git pull --rebase origin main
+          git push origin HEAD:main
