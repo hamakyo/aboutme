@@ -46,7 +46,17 @@ Self-hosted Git repository replication and disaster recovery, starting with GitH
 ![Azure](https://img.shields.io/badge/Azure-FBD8CB?style=flat-square&logo=microsoftazure&logoColor=272626)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FBF8F1?style=flat-square&logo=githubactions&logoColor=272626)
 
-## activity
+## contribution observatory
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-hamakyo-cream.svg" alt="Hamakyo Cream 3D contribution observatory" width="100%" />
+
+<sub>Generated daily from GitHub activity in the Hamakyo Cream palette.</sub>
+
+</div>
+
+## recent rhythm
 
 <div align="center">
 
