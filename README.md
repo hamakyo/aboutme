@@ -1,10 +1,3 @@
-<div align="center">
-
-<img src="./assets/hero.png" alt="hamakyo — about me" width="100%" />
-
-
-</div>
-
 ## what i'm into
 
 I like turning ideas into small working systems.
@@ -49,6 +42,12 @@ Self-hosted Git repository replication and disaster recovery, starting with GitH
 <img src="./profile-3d-contrib/profile-hamakyo-cream.svg" alt="Hamakyo Cream 3D contribution observatory" width="100%" />
 
 <sub>Generated daily from GitHub activity in the Hamakyo Cream palette.</sub>
+
+</div>
+
+<div align="center">
+
+<img src="./assets/hero.png" alt="hamakyo — about me" width="100%" />
 
 </div>
 
